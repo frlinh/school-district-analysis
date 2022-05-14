@@ -208,7 +208,7 @@
   {
    "cell_type": "code",
    "execution_count": 1486,
-   "id": "aaf0a68d",
+   "id": "4b000255",
    "metadata": {},
    "outputs": [
     {
@@ -4960,7 +4960,7 @@
   {
    "cell_type": "code",
    "execution_count": 1566,
-   "id": "4707802e",
+   "id": "3802fa3b",
    "metadata": {},
    "outputs": [
     {
@@ -5045,7 +5045,7 @@
   {
    "cell_type": "code",
    "execution_count": 1567,
-   "id": "e00246c8",
+   "id": "2e312abc",
    "metadata": {},
    "outputs": [
     {
@@ -5077,7 +5077,7 @@
   {
    "cell_type": "code",
    "execution_count": 1568,
-   "id": "7362ebc7",
+   "id": "bebdf2ae",
    "metadata": {},
    "outputs": [
     {
@@ -5318,7 +5318,7 @@
   {
    "cell_type": "code",
    "execution_count": 1569,
-   "id": "79ddb65b",
+   "id": "27881156",
    "metadata": {},
    "outputs": [
     {
@@ -5340,7 +5340,7 @@
   {
    "cell_type": "code",
    "execution_count": 1570,
-   "id": "e0198004",
+   "id": "3345306d",
    "metadata": {},
    "outputs": [
     {
@@ -5580,10 +5580,19 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 1583,
-   "id": "abe1fb1c",
+   "execution_count": 1571,
+   "id": "eb6c931a",
    "metadata": {},
    "outputs": [
+    {
+     "name": "stderr",
+     "output_type": "stream",
+     "text": [
+      "C:\\Users\\16699\\anaconda3\\lib\\site-packages\\IPython\\core\\displayhook.py:275: UserWarning: Output cache limit (currently 1000 entries) hit.\n",
+      "Flushing oldest 200 entries.\n",
+      "  warn('Output cache limit (currently {sz} entries) hit.\\n'\n"
+     ]
+    },
     {
      "data": {
       "text/html": [
@@ -5808,7 +5817,7 @@
        "[1487 rows x 11 columns]"
       ]
      },
-     "execution_count": 1583,
+     "execution_count": 1571,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -5817,13 +5826,13 @@
     "THS_passing_math_reading = school_data_complete_df.loc[(school_data_complete_df[\"school_name\"] == \"Thomas High School\")\n",
     "                                                       & (school_data_complete_df[\"reading_score\"] >= 70)\n",
     "                                                    & (school_data_complete_df[\"math_score\"] >= 70)]\n",
-    "THS_passing_math_reading                                            "
+    "THS_passing_math_reading                                               "
    ]
   },
   {
    "cell_type": "code",
    "execution_count": 1572,
-   "id": "2cf0b14c",
+   "id": "a615adbf",
    "metadata": {},
    "outputs": [
     {
@@ -5845,7 +5854,7 @@
   {
    "cell_type": "code",
    "execution_count": 1573,
-   "id": "73b16e6c",
+   "id": "04c97b52",
    "metadata": {
     "scrolled": true
    },
@@ -5869,7 +5878,7 @@
   {
    "cell_type": "code",
    "execution_count": 1574,
-   "id": "f5aecf3c",
+   "id": "f2c34248",
    "metadata": {},
    "outputs": [
     {
@@ -5891,7 +5900,7 @@
   {
    "cell_type": "code",
    "execution_count": 1575,
-   "id": "54689755",
+   "id": "8cddd961",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -5902,7 +5911,7 @@
   {
    "cell_type": "code",
    "execution_count": 1576,
-   "id": "9c0144e8",
+   "id": "93e45bec",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -5913,7 +5922,7 @@
   {
    "cell_type": "code",
    "execution_count": 1578,
-   "id": "c4a64791",
+   "id": "6d263a75",
    "metadata": {
     "scrolled": true
    },
@@ -6091,7 +6100,7 @@
   {
    "cell_type": "code",
    "execution_count": 1579,
-   "id": "b7ea1dc1",
+   "id": "a060b5c1",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -6102,7 +6111,7 @@
   {
    "cell_type": "code",
    "execution_count": 1580,
-   "id": "8fd20ded",
+   "id": "d3157fa7",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -6117,7 +6126,7 @@
   {
    "cell_type": "code",
    "execution_count": 1581,
-   "id": "32978273",
+   "id": "f5078d6b",
    "metadata": {},
    "outputs": [
     {
@@ -6197,7 +6206,7 @@
   {
    "cell_type": "code",
    "execution_count": 1582,
-   "id": "7e72c8ff",
+   "id": "6e5b9f24",
    "metadata": {},
    "outputs": [
     {
@@ -6275,7 +6284,7 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "1ff37cbf",
+   "id": "5d4ecc86",
    "metadata": {},
    "outputs": [],
    "source": []
@@ -6283,7 +6292,7 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "63c5ac36",
+   "id": "06e0454e",
    "metadata": {},
    "outputs": [],
    "source": []
