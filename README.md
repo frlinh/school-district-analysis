@@ -41,10 +41,10 @@ The School Summary showed that:
 ![Bottom_Schools](https://github.com/frlinh/school-district-analysis/blob/5aa8156513c9756bac3106ed4d40fda3309aac20/Resources/Bottom%20Schools.png)
 
 ### School Type Summary
-![School_Type](https://github.com/frlinh/school-district-analysis/blob/cce8ecb8501427ebf3aded07ed7b52f253edf6d4/Resources/School%20Type%20Summary.png)
+![School_Type](https://github.com/frlinh/school-district-analysis/blob/22517621b72f92ffbb217a0248ba7b6e033f91fe/Resources/School_Type_Summary.png)
 
 ### Spending Summary
-![Spending_Summary](https://github.com/frlinh/school-district-analysis/blob/cce8ecb8501427ebf3aded07ed7b52f253edf6d4/Resources/Spending%20Summary.png)
+![Spending_Summary](https://github.com/frlinh/school-district-analysis/blob/22517621b72f92ffbb217a0248ba7b6e033f91fe/Resources/Spending_Sumary.png)
 
 ### School Size Summary
-![School_Size](https://github.com/frlinh/school-district-analysis/blob/cce8ecb8501427ebf3aded07ed7b52f253edf6d4/Resources/School%20Size%20Summary.png)
+![School_Size](https://github.com/frlinh/school-district-analysis/blob/22517621b72f92ffbb217a0248ba7b6e033f91fe/Resources/School_Size_Summary.png)
