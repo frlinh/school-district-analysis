@@ -32,12 +32,15 @@ The District Summary showed that:
 The School Summary showed that:
 - The High School with the highest overall passing percentage was Cabrera High School at 91.3% with a total number of 1858 students and a school budget of $1,081,356
 - The High School with the lowest overall passing percentage was Rodriguez High Shchool at 53.0% with a total number of 3999 students and a school budget of $2,547,363
+- The Top 5 perfoming schools were all Charter Schools
+- The Bottom 5 performing schools were all District Schools
+ 
 ![School_Summary](https://github.com/frlinh/school-district-analysis/blob/5aa8156513c9756bac3106ed4d40fda3309aac20/Resources/School_Summary.png)
 
-### The Top 5 Performing Schools were all Charter Schools:
+### The Top 5 Performing Schools:
 ![Top_Schools](https://github.com/frlinh/school-district-analysis/blob/5aa8156513c9756bac3106ed4d40fda3309aac20/Resources/Top%20Schools.png)
 
-### The Bottom 5 Performing schools were all District Schools:
+### The Bottom 5 Performing schools:
 ![Bottom_Schools](https://github.com/frlinh/school-district-analysis/blob/5aa8156513c9756bac3106ed4d40fda3309aac20/Resources/Bottom%20Schools.png)
 
 ### School Type Summary
