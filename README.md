@@ -3,7 +3,7 @@
 ## Project Overview
 Performed data analysis on math and reading test scores for High School Students.  The analysis determined the top 5 performing schools, bottom 5 performing schools, math and reading passing percentage, overall passing percentage, average math and reading scores, and school performance based on budget, school size, and school type.
 
-Upon further evaluation, the dataset presented evidence of academic dishonesty, specifically for reading and math grades for Thomas High School ninth-graders. In order to uphold state-testing standards, the reading and math grades for Thomas High School ninth-graders were removed from the dataset.
+Upon further evaluation, the dataset presented evidence of academic dishonesty, specifically for reading and math grades for Thomas High School ninth-graders. In order for the State to uphold state-testing standards, the reading and math grades for Thomas High School ninth-graders were removed from the dataset.
 
 The omission improved the passing math percentage, passing reading percentage, and overall passing percentage as follows:
 - The passing math percentage changed from 66.9% to 93.2%
